@@ -1,6 +1,6 @@
 # Sphyxia
 
-> A flexible blog theme designed for Obsidian users.
+> Whole lotta Sphyxia yapping!
 
 This site is built with Astro and contains a blog with posts about technology, development, and various topics.
 
