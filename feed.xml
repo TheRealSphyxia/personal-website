@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sphyxia</title>
+  <subtitle>A flexible blog theme designed for Obsidian users.</subtitle>
+  <link href="https://sphyxia.com/"/>
+  <link href="https://sphyxia.com/feed.xml" rel="self"/>
+  <id>https://sphyxia.com/</id>
+  <author>
+    <name>Sphyxia</name>
+  </author>
+  <updated>2026-03-18T02:10:52.413Z</updated>
+
+  
+  <entry>
+    <title>Welcome</title>
+    <link href="https://sphyxia.com/posts/welcome/"/>
+    <id>https://sphyxia.com/posts/welcome/</id>
+    <published>2026-03-17T00:00:00.000Z</published>
+    <updated>2026-03-17T00:00:00.000Z</updated>
+    <summary></summary>
+    
+  </entry>
+</feed>
