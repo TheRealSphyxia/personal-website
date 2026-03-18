@@ -1,6 +1,13 @@
 {
   "nodes": [
     {
+      "id": "test-post",
+      "type": "post",
+      "title": "Test Post",
+      "slug": "test-post",
+      "connections": 1
+    },
+    {
       "id": "welcome",
       "type": "post",
       "title": "Welcome",
@@ -8,11 +15,17 @@
       "connections": 0
     }
   ],
-  "connections": [],
+  "connections": [
+    {
+      "source": "test-post",
+      "target": "welcome",
+      "type": "link"
+    }
+  ],
   "metadata": {
-    "totalPosts": 1,
-    "totalConnections": 0,
+    "totalPosts": 2,
+    "totalConnections": 1,
     "maxNodesApplied": false,
-    "originalNodeCount": 1
+    "originalNodeCount": 2
   }
 }

@@ -8,9 +8,18 @@
   <author>
     <name>Sphyxia</name>
   </author>
-  <updated>2026-03-18T02:10:52.413Z</updated>
+  <updated>2026-03-18T02:56:31.448Z</updated>
 
   
+  <entry>
+    <title>Test Post</title>
+    <link href="https://sphyxia.com/posts/test-post/"/>
+    <id>https://sphyxia.com/posts/test-post/</id>
+    <published>2026-03-17T00:00:00.000Z</published>
+    <updated>2026-03-17T00:00:00.000Z</updated>
+    <summary></summary>
+    
+  </entry>
   <entry>
     <title>Welcome</title>
     <link href="https://sphyxia.com/posts/welcome/"/>
